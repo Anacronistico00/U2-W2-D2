@@ -1,0 +1,11 @@
+nav {
+  background-color: #e2e2e2 !important;
+}
+
+.navbar-brand {
+  width: 25%;
+}
+
+.navbar-brand img {
+  max-width: 50%;
+}
